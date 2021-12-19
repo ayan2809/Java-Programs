@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: ayans
+Build-Jdk: version 13.0.2
+Class-Path: lib/mysql-connector-java-8.0.23.jar
+
